@@ -11,7 +11,7 @@
   <img align="center" alt="Lina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lina-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="right" alt="Lina" height="200" width="200" src="https://cdn.discordapp.com/attachments/952749068822655039/952753768095711323/output_9uAV99.gif">
+ 
   
   
   
